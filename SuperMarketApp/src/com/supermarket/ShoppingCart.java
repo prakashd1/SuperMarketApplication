@@ -1,5 +1,11 @@
 package com.supermarket;
 
+/**
+ * 
+ * @author Prakash Dayaramani
+ *
+ */
+
 import java.util.HashMap;
 import java.util.Map;
 

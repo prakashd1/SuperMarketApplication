@@ -1,5 +1,10 @@
 package com.supermarket.test;
 
+/**
+ * 
+ * @author Prakash Dayaramani
+ *
+ */
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
@@ -59,7 +64,7 @@ public class TestShoppingCart {
 	public void testAddProductWithPercentageOffer() {
 		shoppingCart.addProduct(doveSoapWithDiscount, 2);
 		System.out.println(shoppingCart.getTotalCartValue());
-		Assert.assertEquals(45,shoppingCart.getTotalCartValue(), 0);
+		Assert.assertEquals(45, shoppingCart.getTotalCartValue(), 0);
 	}
 
 }

@@ -1,5 +1,10 @@
 package com.supermarket;
 
+/**
+ * 
+ * @author Prakash Dayaramani
+ *
+ */
 public class Product {
 
 	public Product(String name, float price, FreeOffer offer, PercentageOffer discountOffer) {

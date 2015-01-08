@@ -1,5 +1,10 @@
 package com.supermarket;
 
+/**
+ * 
+ * @author Prakash Dayaramani
+ *
+ */
 public class PercentageOffer {
 
 	private int buyQuantity;
